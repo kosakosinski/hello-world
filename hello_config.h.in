@@ -1,0 +1,7 @@
+#ifndef HELLO_CONFIG_H
+#define HELLO_CONFIG_H
+
+#define hello_VERSION_MAJOR @Hello_VERSION_MAJOR@
+#define hello_VERSION_MINOR @Hello_VERSION_MINOR@
+
+#endif
